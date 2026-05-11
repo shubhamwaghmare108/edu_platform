@@ -4,10 +4,12 @@ from pathlib import Path
 
 # =========================================================
 # DATABASE CONFIG
+# You can also load this connection parameters from an .ini file
+# if you create one.
 # =========================================================
 
-DB_USER = "root"
-DB_PASSWORD = "S108108w"
+DB_USER = "add your user"
+DB_PASSWORD = "Add your password"
 DB_HOST = "localhost"
 DB_PORT = "3306"
 DB_NAME = "edu_platform"
